@@ -33,5 +33,3 @@ Here are some of the technologies and tools that I am proficient in:
 ![](https://img.shields.io/badge/-SOAR-252526?style=flat-square)
 
 I have experience with Azure cloud computing and deployment, as well as continuous integration and continuous deployment (CI/CD). For data visualization, I have used Plotly and Streamlit, and I have worked with databases including MongoDB and SQL, as well as time-series databases like InfluxDB. I have also worked with security orchestration, automation, and response (SOAR) technologies and the Yocto Project for building embedded Linux systems.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdragoi&count_private=true&theme=dark)
